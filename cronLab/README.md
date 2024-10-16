@@ -1,19 +1,6 @@
 # <p align="center"> cronLab
 ### 인프라 구성 업무 자동화 step 별 학습
 
----
-
-<h2 style="font-size: 25px;"> 개발팀원👨‍👨‍👧‍👦<br>
-<br>
-
-|<img src="https://avatars.githubusercontent.com/u/127727927?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/90971532?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/98442485?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/66353700?v=4" width="150" height="150"/>|
-|:-:|:-:|:-:|:-:|
-|[@부준혁](https://github.com/BooJunhyuk)|[@이승언](https://github.com/seungunleeee)|[@신혜원](https://github.com/haewoni)|[@이연희](https://github.com/LeeYeonhee-00)|
-
----
-
-<br>
-
 ## 프로젝트 목적 🌷
 인프라 구성 업무에 앞서 시스템의 안정성과 보안을 유지하고 문제 해결을 위한 데이터를 확보하기 위해, <br>
 로그 파일과 같은 주요 자원들을 자동으로 생성하고 백업하는 방법이 필수적입니다. <br>
