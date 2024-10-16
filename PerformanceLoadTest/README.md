@@ -1,17 +1,6 @@
 # <p align="center"> 우분투 서버 성능 부하 테스트
 ### AWS EC2의 우분투 서버에서의 StressTest 진행 프로젝트 
 
----
-
-<h2 style="font-size: 25px;"> 개발팀원👨‍👨‍👧‍👦<br>
-<br>
-
-|<img src="https://avatars.githubusercontent.com/u/127727927?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/98442485?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/66353700?v=4" width="150" height="150"/>|
-|:-:|:-:|:-:|
-|[@부준혁](https://github.com/BooJunhyuk)|[@신혜원](https://github.com/haewoni)|[@이연희](https://github.com/LeeYeonhee-00)|
-
----
-
 <br>
 
 ## 프로젝트 목적 🌷
@@ -151,4 +140,4 @@ sudo systemctl start docker
 성능 비교 수행 후 유의미한 결과를 얻지 못한 것이 아쉬웠습니다. <br><br>
 추후 규모가 있는 서비스 구현 시 애플리케이션과 서비스를 모두 고려한 스트레스 테스트를 진행한다면, <br>
 안정적이고 신뢰도 있는 서비스를 구현할 수 있을 것이라고 생각했습니다.  <br>
-또한, 서비스 자체의 테스트를 위해 nGrinder와 같은 API를 사용해 볼 예정입니다.<br>
+추후에, 서비스 자체의 테스트를 위해 nGrinder와 같은 API를 사용해 볼 예정입니다.<br>
