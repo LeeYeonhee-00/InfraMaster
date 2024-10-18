@@ -10,4 +10,4 @@ Repository for learning and documenting various infrastructure technologies, inc
 | 4  | **PerformanceLoadTest** | Performance Load Testing | Linux | [GitHub Link](https://github.com/LeeYeonhee-00/InfraMaster/tree/main/PerformanceLoadTest) | 2024-10-10 |
 | 5  | **CI/CD + S3** | 추가 필요 | Linux, Shell Script | [GitHub Link](https://github.com/LeeYeonhee-00/InfraMaster/tree/main/StressTest) | 2024-10-11 |
 | 6  | **EKS + SpringBoot** | Deploy Spring app using EKS | EKS, Spring, Docker | [GitHub Link](https://github.com/LeeYeonhee-00/InfraMaster/tree/main/EKS_springApp) | 2024-10-15 |
-| 7  | **Terraform + S3** | 추가 필요 | Linux, Shell Script | [GitHub Link](https://github.com/LeeYeonhee-00/InfraMaster/tree/main/StressTest) | 2024-10-15 |
+| 7  | **Terraform + S3** | 추가 필요 | Linux, Shell Script | [GitHub Link](https://rapid-bush-206.notion.site/241016-17-Terraform-121fb022fe8180cdb56edd30e951a487?pvs=4) | 2024-10-15 |
